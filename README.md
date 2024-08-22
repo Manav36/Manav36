@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samyog Dangol</h1>
+<h1 align="center">Hi 👋, I'm Manav Prasad Nepali</h1>
 <h3 align="center">A passionate developer and Computer Science And IT Undergraduate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyogdg&label=Profile%20views&color=0e75b6&style=flat" alt="samyogdg" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samyogdangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samyogdangol" height="30" width="40" /></a>
+<a href="https://www.facebook.com/manav.nepali.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manavnp" height="30" width="40" /></a>
 <a href="https://fb.com/samyog dangol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samyog dangol" height="30" width="40" /></a>
 <a href="https://instagram.com/x_samyog_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x_samyog_x" height="30" width="40" /></a>
 </p>
