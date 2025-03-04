@@ -19,7 +19,7 @@
   <a href="https://x.com/ManavNp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manavnp" height="30" width="40" /></a>
   <a href="https://www.facebook.com/manav.nepali.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manavnp" height="30" width="40" /></a>
   <a href="https://www.instagram.com/np_manav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="np_manav" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/manav-np-8811782a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Manav Np" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
