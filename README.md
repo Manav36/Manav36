@@ -6,7 +6,7 @@
 </p>
 
 
-- 👯 I’m looking to collaborate on **Web Development and Machine Learning Projects.**
+- 👯 I’m looking to collaborate on **Web Development Projects.**
 
 - 🤝 Open to connecting with fellow developers and learning from the community.
 
