@@ -6,7 +6,7 @@
 </p>
 
 
-- 🏫 I’m currently learning **React and Next.js**
+- 🏫 I’m currently exploring **React and Next.js**
 
 - 🤝 Open to connecting with fellow developers and learning from the community.
 
